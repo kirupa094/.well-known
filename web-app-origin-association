@@ -1,0 +1,10 @@
+{
+    "web_apps": [
+        {
+            "manifest": "https://kirupa094.github.io/pwa/manifest.json",
+            "details": {
+                "paths": ["/*"],
+            }
+        },
+    ]
+}
