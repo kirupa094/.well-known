@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.imigames.saradiel",
-    "sha256_cert_fingerprints":
-    ["E1:FE:9C:E1:49:73:6B:19:5D:E4:85:D3:F4:96:68:83:88:63:9B:46:2E:EC:CC:13:D1:E7:D0:AC:1D:61:2E:12"]
-  }
-}]
