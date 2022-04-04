@@ -1,7 +1,7 @@
 {
     "web_apps": [
         {
-            "manifest": "https://kirupa094.github.io/pwa/manifest.json",
+            "manifest": "https://pwa.staging.imigames.io/manifest.json",
             "details": {
                 "paths": ["/*"],
             }
